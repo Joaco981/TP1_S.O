@@ -1,2 +1,3 @@
-Hola a todos amigos de youtube. este es nuestro tp1 de sistema operativo
-Perdieron el juego
+# Bienvenidos a nuetro proyecto
+Nosotros somos:
+Ivancho, Joaco, Rodri y Augusto
