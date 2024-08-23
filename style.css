@@ -1,0 +1,48 @@
+
+body {
+    background-color:rgb(255, 255, 255) /* Cambia el color de fondo del cuerpo */
+}
+
+/*Prueba*/
+
+
+.menu li {
+    list-style: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.titulo {
+    color: #3AE4E7; /* Cambia el color del texto del título */
+    text-align: center; /* Centrar el título */
+}
+
+.nav-item {
+    display: block;
+    position: relative;
+    padding: 30px;
+    color: white;
+}
+
+.main-navbar {
+    width: 100%;
+    height: 100%;
+    position: sticky;
+    background-color: #0788e4;
+    overflow: hidden;
+}
+
+/*Prueba*/
+
+
+
+h2 {
+    color: rgb(12, 12, 12); 
+   
+}
+p{
+    color:black;
+    font-size: 16px;
+}
